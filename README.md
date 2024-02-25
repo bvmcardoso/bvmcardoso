@@ -30,15 +30,13 @@ I'm currently working on [Foxbox](https://www.foxbox.com/)
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker"
             width="50" height="50" />
     </a>
-      <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactjs"
-            width="50" height="50" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"width="50" height="50" />
-    </a>
+      
 </p>
 <p align="left">
+    <a href="https://reactjs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactjs"
+            width="50" height="50" />
+    </a>  
     <a href="https://www.javascript.com">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             alt="javascript" width="50" height="50" />
@@ -60,6 +58,9 @@ I'm currently working on [Foxbox](https://www.foxbox.com/)
     </a>
 </p>
 <p align="left">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"width="50" height="50" />
+    </a>
     <a href="https://www.mysql.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
             width="50" height="50" />"
