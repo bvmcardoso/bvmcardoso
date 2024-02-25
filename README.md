@@ -24,7 +24,7 @@ I'm currently working on [Foxbox](https://www.foxbox.com/)
             width="50" height="50" />
     </a>
     <a href="https://www.djangoproject.com/">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"width="50" height="50" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" width="auto" height="50" />
     </a>
     <a href="https://www.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker"
