@@ -4,8 +4,6 @@
 
 I am a software engineer who is passionate about designing, coding, deploying and maintain high quality software.
 
-I'm currently working on [Foxbox](https://www.foxbox.com/)
-
 <hr>
 
 <h2>Here you can see some languages I've been working on</h2>
