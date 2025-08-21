@@ -7,7 +7,7 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 ---
 
 ## Currently
-- **[Skillora](https://github.com/bvmcardoso/skillora)** — Public MVP with JWT authentication, CRUD, automated tests, and CI/CD.
+- **[Skillora](https://github.com/bvmcardoso/skillora)** — WIP
 - Focused on software architecture, API performance, and service design.
 
 ---
@@ -22,15 +22,11 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 
 ## Featured Projects
 - **Skillora** — Skills management platform with modular architecture, automated testing, and containerized deployment.  
-- **[Another relevant project]** — (short description of impact or tech)  
-- **[Another relevant project]** — (short description)
 
 ---
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvmcardoso&layout=compact&theme=prussian)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvmcardoso&show_icons=true&theme=prussian&hide=prs,issues,stars,contribs)
-
 ---
 
 ## Contact
