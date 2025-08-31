@@ -12,7 +12,7 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 ---
 
 ## 🚀 Currently
-- **[Skillora](https://github.com/bvmcardoso/skillora)** — WIP  
+- **[Skillora Analytics](https://github.com/bvmcardoso/skillora-analytics)** — WIP  
 - Focused on **software architecture**, **API performance**, and **service design**.
 
 ---
