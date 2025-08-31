@@ -47,7 +47,7 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 ---
 
 ## 📊 GitHub Stats
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvmcardoso&show_icons=true&theme=prussian)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvmcardoso&show_icons=true&theme=prussian&langs_count=10&refresh=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvmcardoso&layout=compact&theme=prussian)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvmcardoso&theme=prussian)
 
