@@ -41,14 +41,11 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 
 ## 📌 Featured Projects
 - **[Skillora](https://github.com/bvmcardoso/skillora)** — Skills management platform with modular architecture, automated testing, and containerized deployment.  
-- **Tower Jump Analyzer** — Challenge project focused on **data processing, grouping, and analytics** using Python & Pandas.  
-- **Thoughtful Package Sorter** — Algorithm design for robotic package handling (Python + simulation).  
-
 ---
 
 ## 📊 GitHub Stats
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvmcardoso&show_icons=true&theme=prussian&langs_count=10&refresh=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvmcardoso&layout=compact&theme=prussian)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvmcardoso&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvmcardoso&layout=compact&theme=prussian&refresh=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvmcardoso&theme=prussian&refresh=1)
 
 ---
