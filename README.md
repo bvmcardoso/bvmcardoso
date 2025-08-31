@@ -1,13 +1,12 @@
 # Bruno Vinícius
 
-**Backend / Full-Stack Engineer**  
-I build **production-grade SaaS** with clean architecture, automation, and consistent delivery.  
-Experienced in working with global teams, delivering scalable solutions in **Python (FastAPI/Django)**, **React**, and container-based infrastructure.  
+**Senior Python / Full-Stack Engineer**
+Focused on building scalable SaaS platforms with clean architecture and automation.  
+Currently developing Skillora Analytics — full-stack analytics MVP with FastAPI + React.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvmcardoso/)
 [![Email](https://img.shields.io/badge/Email-bvmcardoso%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:bvmcardoso@hotmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=bvmcardoso&color=blue)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bvmcardoso)
+
 
 ---
 
@@ -25,6 +24,7 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 ![Pytest](https://img.shields.io/badge/Pytest-tests-yellow?logo=pytest)
 
 ![React](https://img.shields.io/badge/React-frontend-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-strong-blue?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
@@ -40,7 +40,10 @@ Experienced in working with global teams, delivering scalable solutions in **Pyt
 ---
 
 ## 📌 Featured Projects
-- **[Skillora](https://github.com/bvmcardoso/skillora)** — Skills management platform with modular architecture, automated testing, and containerized deployment.  
+- **[Skillora](https://github.com/bvmcardoso/skillora)** — Skills management platform with modular architecture, automated testing, and containerized deployment.
+- **[IMDB API](https://github.com/bvmcardoso/imdb-api-drf)** — Production-ready REST API for movies and TV shows using Django REST Framework.  
+  Includes **JWT auth, role-based permissions, filtering, pagination, throttling, automated tests** and full CRUD for movies/series.
+
 ---
 
 ## 📊 GitHub Stats
