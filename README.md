@@ -48,6 +48,5 @@ Currently developing Skillora Analytics — full-stack analytics MVP with FastAP
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvmcardoso&layout=compact&theme=prussian&refresh=1)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvmcardoso&theme=prussian&refresh=1)
 
 ---
