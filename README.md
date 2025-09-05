@@ -1,18 +1,17 @@
 # Bruno Vinícius
 
-**Senior Python / Full-Stack Engineer**
-Focused on building scalable SaaS platforms with clean architecture and automation.  
-Currently developing Skillora Analytics — full-stack analytics MVP with FastAPI + React.  
+**Senior Python / Full-Stack Engineer**  
+I build **production-grade SaaS platforms** with clean architecture, performance, and automation.  
+Currently: Developing [**Skillora Analytics**](https://github.com/bvmcardoso/skillora-analytics) (FastAPI + React full-stack MVP) showcasing end-to-end service design, modular architecture, and CI/CD.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvmcardoso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvmcardoso/)  
 [![Email](https://img.shields.io/badge/Email-bvmcardoso%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:bvmcardoso@hotmail.com)
-
 
 ---
 
 ## 🚀 Currently
-- **[Skillora Analytics](https://github.com/bvmcardoso/skillora-analytics)** — WIP  
-- Focused on **software architecture**, **API performance**, and **service design**.
+- **Professional:** Senior Python Engineer @ Insight Global (contract for Paybotic)  
+- **Personal:** Building **Skillora Analytics** — full-stack SaaS MVP (FastAPI + React) focused on **software architecture, API performance, and service design**  
 
 ---
 
@@ -40,9 +39,30 @@ Currently developing Skillora Analytics — full-stack analytics MVP with FastAP
 ---
 
 ## 📌 Featured Projects
-- **[Skillora](https://github.com/bvmcardoso/skillora)** — Skills management platform with modular architecture, automated testing, and containerized deployment.
-- **[IMDB API](https://github.com/bvmcardoso/imdb-api-drf)** — Production-ready REST API for movies and TV shows using Django REST Framework.  
-  Includes **JWT auth, role-based permissions, filtering, pagination, throttling, automated tests** and full CRUD for movies/series.
+- **[Skillora](https://github.com/bvmcardoso/skillora)** — Full-stack analytics MVP to **upload job salary datasets (CSV/XLSX)**, process them asynchronously, and explore insights through analytics APIs.  
+  Built with **FastAPI, React, Celery, Postgres, Redis, Docker, CI/CD**.  
+
+- **[IMDB API](https://github.com/bvmcardoso/imdb-api-drf)** — Production-ready REST API for movies and TV shows.  
+  Includes **JWT auth, role-based permissions, filtering, pagination, throttling, automated tests** and full CRUD for movies/series.  
+
+---
+
+## 💼 Experience (highlights)
+- **Insight Global / Paybotic** — Senior Python Engineer (2024–2025)  
+  Built backend services with FastAPI and NestJS, integrated APIs, and led CI/CD improvements.  
+- **Foxbox Digital** — Backend Engineer (2021–2023)  
+  Developed scalable SaaS products for US-based clients, working with Python/Django and React.  
+- **IClinic** — Full-Stack Developer (2019–2021)  
+  Delivered features end-to-end in a high-traffic healthtech platform.  
+
+---
+
+## ⚡ Strengths
+- Designed and deployed **modular SaaS architectures**  
+- Automated **CI/CD pipelines** with GitHub Actions  
+- Experience with **async Python** at scale  
+- Container-first mindset (**Docker, Compose**)  
+- Strong **API design & testing practices**  
 
 ---
 
@@ -50,3 +70,5 @@ Currently developing Skillora Analytics — full-stack analytics MVP with FastAP
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvmcardoso&layout=compact&theme=prussian&refresh=1)
 
 ---
+
+💼 Open to **remote senior/lead opportunities** (Python, React, SaaS) — contractor or full-time.  
