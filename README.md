@@ -10,7 +10,7 @@ Currently: Developing [**Skillora Analytics**](https://github.com/bvmcardoso/ski
 ---
 
 ## 🚀 Currently
-- **Professional:** Senior Python Engineer @ Insight Global (contract for Paybotic)  
+- **Professional:** Senior Python Engineer @ Insight Global
 - **Personal:** Building **Skillora Analytics** — full-stack SaaS MVP (FastAPI + React) focused on **software architecture, API performance, and service design**  
 
 ---
