@@ -8,7 +8,7 @@ Python · Data Pipelines · Scalable SaaS · Production Systems
 
 ---
 
-I'm a backend engineer with 6+ years building systems that run in production — not just systems that look good in a README.
+I'm a backend engineer with 6+ years building systems that run in production, not just systems that look good in a README.
 
 Most of my work lives at the intersection of backend engineering, data pipelines, and the kind of infrastructure that quietly makes everything else work. I care about keeping things simple, making behavior predictable, and not shipping complexity that the next engineer has to untangle six months later.
 
@@ -41,16 +41,16 @@ A few things I've shipped recently that I'm proud of:
 ## Some projects worth looking at
 
 **[Skillora Analytics](https://github.com/bvmcardoso/skillora-analytics)**  
-Full-stack SaaS for ingesting large datasets and running async processing pipelines. Built this as a real product — proper validation, background jobs, CI/CD, the works. Stack: FastAPI · React · Celery · PostgreSQL · Redis · Docker.
+Full-stack SaaS for ingesting large datasets and running async processing pipelines. Built this as a real product: proper validation, background jobs, CI/CD, the works. Stack: FastAPI · React · Celery · PostgreSQL · Redis · Docker.
 
 **[FastAPI Clean Deps](https://github.com/bvmcardoso/fastapi-clean-deps)**  
-An architecture template that shows how I structure backend codebases — Clean Architecture, dependency injection, layered design, isolated testing. Less about what it does, more about how it's built.
+An architecture template that shows how I structure backend codebases: Clean Architecture, dependency injection, layered design, isolated testing. Less about what it does, more about how it's built.
 
 **[Crypto Streaming Dashboard](https://github.com/bvmcardoso/crypto-streaming-dashboard)**  
 Real-time data streaming with FastAPI, WebSockets, and React. Built to explore async-first design and low-latency updates without the usual polling mess.
 
 **[IMDB API](https://github.com/bvmcardoso/imdb-api-drf)**  
-A production-ready REST API in Django REST Framework — JWT auth, role-based permissions, pagination, throttling, and a full test suite. Classic, but built with the right habits.
+A production-ready REST API in Django REST Framework with JWT auth, role-based permissions, pagination, throttling, and a full test suite. Classic, but built with the right habits.
 
 ---
 
@@ -63,12 +63,12 @@ Backend services in FastAPI and NestJS, external API integrations, CI/CD improve
 Scalable SaaS products for US-based clients, mostly Python, Django, and React. Real production environments, real users.
 
 **IClinic** — Full-Stack Developer *(2019–2021)*  
-End-to-end features in a high-traffic healthtech platform. Backend, frontend, integrations — the full stack.
+End-to-end features in a high-traffic healthtech platform. Backend, frontend, integrations.
 
 ---
 
 ## What I'm looking for
 
-Remote senior or lead roles where the work actually matters — good architecture decisions, real ownership, and teams that think long-term about the systems they're building.
+Remote senior or lead roles where the work actually matters: good architecture decisions, real ownership, and teams that think long-term about the systems they're building.
 
 If that sounds like your team, let's talk.
