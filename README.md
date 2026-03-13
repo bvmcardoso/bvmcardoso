@@ -1,12 +1,31 @@
 # Bruno Vinícius
 
-**Senior Backend / Platform Engineer (Python, FastAPI, SaaS)**  
+**Senior Backend / Platform Engineer
+Python • Data Pipelines • Revenue Systems • Scalable SaaS**  
 
 I build **production-grade SaaS platforms** focused on scalability, performance, and long-term maintainability.  
 I specialize in **clean backend architectures**, **async systems**, and **automation pipelines** used in real production environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvmcardoso/)
 [![Email](https://img.shields.io/badge/Email-bvmcardoso%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:bvmcardoso@hotmail.com)
+
+---
+
+## 🚀 Production Systems I’ve Built
+
+In my recent work I’ve focused on building production systems that directly impact business metrics and operational scalability.
+
+Examples include:
+
+- Architecting a closed-loop offline conversion feedback system integrating BigQuery and Google Ads, enabling Smart Bidding to optimize toward qualified opportunities instead of raw leads.
+
+- Designing deterministic data pipelines with validation layers, retry/backoff logic and automated submission workflows for high-integrity event processing.
+
+- Building autonomous infrastructure orchestration using Cloud Run and scheduled workloads, eliminating manual operational steps in production pipelines.
+
+- Re-architecting database workloads and canonical data layers, reducing infrastructure costs by ~95%.
+
+My work often sits at the intersection of **backend engineering, data pipelines, and revenue systems.**
 
 ---
 
