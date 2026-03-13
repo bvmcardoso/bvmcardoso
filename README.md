@@ -8,7 +8,7 @@ Python · Data Pipelines · Scalable SaaS · Production Systems
 
 ---
 
-I'm a backend engineer with 6+ years building systems that run in production, not just systems that look good in a README.
+I'm a backend engineer with 10+ years building systems that run in production, not just systems that look good in a README.
 
 Most of my work lives at the intersection of backend engineering, data pipelines, and the kind of infrastructure that quietly makes everything else work. I care about keeping things simple, making behavior predictable, and not shipping complexity that the next engineer has to untangle six months later.
 
