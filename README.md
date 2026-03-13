@@ -56,14 +56,26 @@ A production-ready REST API in Django REST Framework with JWT auth, role-based p
 
 ## Where I've worked
 
-**Insight Global / Paybotic** — Senior Python Engineer *(2024–2025)*  
+**Stack Builders** — Senior Python Engineer, Data & Analytics Platforms *(Jan 2026 – Present)*  
+Building production data pipelines and analytics infrastructure. Remote.
+
+**Insight Global / Paybotic** — Senior Python Engineer *(Nov 2024 – Dec 2025)*  
 Backend services in FastAPI and NestJS, external API integrations, CI/CD improvements.
 
-**Foxbox Digital** — Backend Engineer *(2021–2023)*  
-Scalable SaaS products for US-based clients, mostly Python, Django, and React. Real production environments, real users.
+**Foxbox Digital** — Senior Python Engineer *(May 2022 – Nov 2024)*  
+Scalable SaaS products for US-based clients across FinTech, PropTech, and AI. Python, Django, FastAPI, Celery, Redis, AWS.
 
-**IClinic** — Full-Stack Developer *(2019–2021)*  
-End-to-end features in a high-traffic healthtech platform. Backend, frontend, integrations.
+**iClinic** — Senior Python Engineer *(Nov 2021 – May 2022)*  
+Cloud-based healthcare platform serving thousands of professionals across Brazil.
+
+**Ka Solution** — Software Engineering Manager *(Mar 2020 – Mar 2021)*  
+Led backend team delivering a custom LMS for enterprise clients.
+
+**Avanade** — Senior Python Engineer *(Jun 2017 – Feb 2020)*  
+Financial reporting and automation systems for global enterprise clients.
+
+**Valid S.A.** — Python Software Engineer *(Jul 2015 – Oct 2016)*  
+Backend systems for finance, telecom, and government sectors.
 
 ---
 
