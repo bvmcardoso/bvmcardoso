@@ -1,86 +1,170 @@
 # Bruno Vinícius
 
-**Senior Backend / Platform Engineer**  
-Python · Data Pipelines · Scalable SaaS · Production Systems
+**Senior Software Engineer**  
+Distributed Systems · Backend Platforms · Cloud Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvmcardoso/)
 [![Email](https://img.shields.io/badge/Email-bvmcardoso%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:bvmcardoso@hotmail.com)
 
 ---
 
-I'm a backend engineer with 10+ years building systems that run in production, not just systems that look good in a README.
+I build systems that run in production, survive real traffic, and stay maintainable long after the initial excitement of shipping them.
 
-Most of my work lives at the intersection of backend engineering, data pipelines, and the kind of infrastructure that quietly makes everything else work. I care about keeping things simple, making behavior predictable, and not shipping complexity that the next engineer has to untangle six months later.
+Most of my work lives at the intersection of backend engineering, distributed systems, cloud infrastructure, and data pipelines — the kind of systems that quietly keep businesses operating at scale.
 
----
+I care about:
+- predictable behavior
+- operational clarity
+- scalable architecture
+- observability
+- reliability under pressure
+- avoiding unnecessary complexity
 
-## What I've been working on lately
-
-A few things I've shipped recently that I'm proud of:
-
-- **Offline conversion pipeline (BigQuery → Google Ads):** closed the feedback loop between CRM data and Smart Bidding, so campaigns could optimize toward qualified pipeline instead of raw leads. The kind of thing that looks small on paper but changes how a whole marketing org makes decisions.
-
-- **Deterministic data ingestion with validation + retry logic:** built for environments where bad data is a business problem, not just a code problem. Every submission has a clear audit trail.
-
-- **Serverless orchestration with Cloud Run + Cloud Scheduler:** eliminated manual steps in production pipelines. Things run, fail loudly when they should, and recover on their own.
-
-- **Database and data layer re-architecture:** cut infrastructure costs by ~95%. That's not a typo.
+Because the real challenge usually starts *after* deployment.
 
 ---
 
-## Tech stack
+## Some things I've been working on recently
 
-**Backend:** Python (FastAPI, Django), SQLAlchemy, Celery, Pytest  
-**Frontend:** React, TypeScript  
-**Cloud & Data:** GCP (BigQuery, Cloud Run, Cloud Scheduler), PostgreSQL, Redis  
-**Infrastructure:** Docker, Docker Compose, Linux  
-**CI/CD:** GitHub Actions
+### Offline conversion feedback pipelines
 
----
+Built a closed-loop attribution system integrating BigQuery and Google Ads, allowing Smart Bidding systems to optimize toward qualified business outcomes instead of raw lead volume.
 
-## Some projects worth looking at
+Implemented:
+- deterministic ingestion workflows
+- validation + submission separation
+- retry/backoff strategies
+- auditability
+- production observability
 
-**[Skillora Analytics](https://github.com/bvmcardoso/skillora-analytics)**  
-Full-stack SaaS for ingesting large datasets and running async processing pipelines. Built this as a real product: proper validation, background jobs, CI/CD, the works. Stack: FastAPI · React · Celery · PostgreSQL · Redis · Docker.
-
-**[FastAPI Clean Deps](https://github.com/bvmcardoso/fastapi-clean-deps)**  
-An architecture template that shows how I structure backend codebases: Clean Architecture, dependency injection, layered design, isolated testing. Less about what it does, more about how it's built.
-
-**[Crypto Streaming Dashboard](https://github.com/bvmcardoso/crypto-streaming-dashboard)**  
-Real-time data streaming with FastAPI, WebSockets, and React. Built to explore async-first design and low-latency updates without the usual polling mess.
-
-**[IMDB API](https://github.com/bvmcardoso/imdb-api-drf)**  
-A production-ready REST API in Django REST Framework with JWT auth, role-based permissions, pagination, throttling, and a full test suite. Classic, but built with the right habits.
+The kind of system where data quality directly impacts revenue decisions.
 
 ---
 
-## Where I've worked
+### Distributed orchestration workflows
 
-**Stack Builders** — Senior Python Engineer, Data & Analytics Platforms *(Jan 2026 – Present)*  
-Building production data pipelines and analytics infrastructure. Remote.
+Designed serverless orchestration pipelines using Cloud Run and Cloud Scheduler to eliminate manual operational processes and improve production reliability.
 
-**Insight Global / Paybotic** — Senior Python Engineer *(Nov 2024 – Dec 2025)*  
-Backend services in FastAPI and NestJS, external API integrations, CI/CD improvements.
+Things run automatically, fail loudly when they should, and recover predictably.
 
-**Foxbox Digital** — Senior Python Engineer *(May 2022 – Nov 2024)*  
-Scalable SaaS products for US-based clients across FinTech, PropTech, and AI. Python, Django, FastAPI, Celery, Redis, AWS.
+---
 
-**iClinic** — Senior Python Engineer *(Nov 2021 – May 2022)*  
-Cloud-based healthcare platform serving thousands of professionals across Brazil.
+### Multi-tenant backend foundations
 
-**Ka Solution** — Software Engineering Manager *(Mar 2020 – Mar 2021)*  
-Led backend team delivering a custom LMS for enterprise clients.
+Led architecture evolution toward scalable account-aware backend systems supporting long-term platform growth across multiple clients and business domains.
 
-**Avanade** — Senior Python Engineer *(Jun 2017 – Feb 2020)*  
-Financial reporting and automation systems for global enterprise clients.
+---
 
-**Valid S.A.** — Python Software Engineer *(Jul 2015 – Oct 2016)*  
+### Infrastructure and data architecture optimization
+
+Redesigned canonical data layers and backend workloads, reducing infrastructure costs by approximately 95% while improving maintainability and operational simplicity.
+
+---
+
+## Tech Stack
+
+### Backend
+Python · FastAPI · Django · SQLAlchemy · Celery · Pytest
+
+### Frontend
+React · Next.js · TypeScript
+
+### Cloud & Data
+GCP (BigQuery, Cloud Run, Cloud Scheduler) · AWS · PostgreSQL · Redis
+
+### Infrastructure
+Docker · Linux · GitHub Actions
+
+---
+
+## Projects
+
+### [Skillora Analytics](https://github.com/bvmcardoso/skillora-analytics)
+
+Full-stack SaaS platform for ingesting large datasets and running asynchronous processing pipelines.
+
+Built with production-oriented concerns from the start:
+- validation pipelines
+- background workers
+- CI/CD
+- containerized environments
+- scalable architecture patterns
+
+**Stack:** FastAPI · React · Celery · PostgreSQL · Redis · Docker
+
+---
+
+### [FastAPI Clean Deps](https://github.com/bvmcardoso/fastapi-clean-deps)
+
+A reference backend architecture template showing how I structure Python services using:
+- Clean Architecture
+- dependency injection
+- layered boundaries
+- isolated testing
+- maintainable domain organization
+
+Less about what the app does. More about how production backend systems should be organized.
+
+---
+
+### [Crypto Streaming Dashboard](https://github.com/bvmcardoso/crypto-streaming-dashboard)
+
+Real-time streaming platform built with FastAPI, WebSockets, and React.
+
+Created to explore:
+- async-first backend design
+- low-latency updates
+- real-time event processing
+- scalable websocket communication
+
+Without relying on inefficient polling.
+
+---
+
+### [IMDB API](https://github.com/bvmcardoso/imdb-api-drf)
+
+Production-ready REST API built with Django REST Framework featuring:
+- JWT authentication
+- role-based permissions
+- pagination
+- throttling
+- automated testing
+- production-oriented backend practices
+
+---
+
+## Experience
+
+**Stack Builders** — Senior Software Engineer *(2026 – Present)*  
+Distributed systems, analytics infrastructure, multi-tenant backend platforms.
+
+**Insight Global / Paybotic** — Senior Python Engineer *(2024 – 2025)*  
+FastAPI, NestJS, backend integrations, cloud-native workflows.
+
+**Foxbox Digital** — Senior Python Engineer *(2022 – 2024)*  
+Scalable SaaS products across FinTech, PropTech, and AI domains.
+
+**iClinic** — Senior Python Engineer *(2021 – 2022)*  
+Cloud healthcare platforms serving thousands of professionals.
+
+**Ka Solution** — Software Engineering Manager *(2020 – 2021)*  
+Backend leadership for enterprise LMS platforms.
+
+**Avanade** — Senior Python Engineer *(2017 – 2020)*  
+Enterprise automation and financial systems.
+
+**Valid S.A.** — Python Software Engineer *(2015 – 2016)*  
 Backend systems for finance, telecom, and government sectors.
 
 ---
 
-## What I'm looking for
+## What I'm Looking For
 
-Remote senior or lead roles where the work actually matters: good architecture decisions, real ownership, and teams that think long-term about the systems they're building.
+Remote senior engineering or technical leadership roles involving:
+- distributed systems
+- scalable backend platforms
+- cloud infrastructure
+- long-term ownership
+- meaningful technical challenges
 
-If that sounds like your team, let's talk.
+If your team values pragmatic engineering, scalable systems, and strong technical foundations, feel free to reach out.
