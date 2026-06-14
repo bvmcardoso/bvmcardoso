@@ -135,25 +135,25 @@ Production-ready REST API built with Django REST Framework featuring:
 
 ## Experience
 
-**Stack Builders** — Senior Software Engineer *(2026 – Present)*  
+**Stack Builders** - Senior Software Engineer *(2026 – Present)*  
 Distributed systems, analytics infrastructure, multi-tenant backend platforms.
 
-**Insight Global / Paybotic** — Senior Python Engineer *(2024 – 2025)*  
+**Insight Global / Paybotic** - Senior Python Engineer *(2024 – 2025)*  
 FastAPI, NestJS, backend integrations, cloud-native workflows.
 
-**Foxbox Digital** — Senior Python Engineer *(2022 – 2024)*  
+**Foxbox Digital** - Senior Python Engineer *(2022 – 2024)*  
 Scalable SaaS products across FinTech, PropTech, and AI domains.
 
-**iClinic** — Senior Python Engineer *(2021 – 2022)*  
+**iClinic** - Senior Python Engineer *(2021 – 2022)*  
 Cloud healthcare platforms serving thousands of professionals.
 
-**Ka Solution** — Software Engineering Manager *(2020 – 2021)*  
+**Ka Solution** - Software Engineering Manager *(2020 – 2021)*  
 Backend leadership for enterprise LMS platforms.
 
-**Avanade** — Senior Python Engineer *(2017 – 2020)*  
+**Avanade** - Senior Python Engineer *(2017 – 2020)*  
 Enterprise automation and financial systems.
 
-**Valid S.A.** — Python Software Engineer *(2015 – 2016)*  
+**Valid S.A.** - Python Software Engineer *(2015 – 2016)*  
 Backend systems for finance, telecom, and government sectors.
 
 ---
@@ -161,10 +161,10 @@ Backend systems for finance, telecom, and government sectors.
 ## What I'm Looking For
 
 Remote senior engineering or technical leadership roles involving:
-- distributed systems
-- scalable backend platforms
-- cloud infrastructure
-- long-term ownership
-- meaningful technical challenges
+- Distributed systems
+- Scalable backend platforms
+- Cloud infrastructure
+- Long-term ownership
+- Meaningful technical challenges
 
 If your team values pragmatic engineering, scalable systems, and strong technical foundations, feel free to reach out.
