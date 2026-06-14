@@ -1,4 +1,4 @@
-# Bruno Vinícius
+# Bruno Cardoso
 
 **Senior Software Engineer**  
 Distributed Systems · Backend Platforms · Cloud Infrastructure
